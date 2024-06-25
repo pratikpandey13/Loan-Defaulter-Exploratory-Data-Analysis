@@ -15,6 +15,8 @@ This analysis is pivotal for the bank’s strategic operations. Understanding th
 - Improve customer satisfaction by streamlining the application process for low-risk applicants.
 - Strengthen their overall financial health through proactive risk management.
 
+## Dataset Link: https://drive.google.com/drive/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
+
 ## Methodology
 The project employs advanced EDA techniques to scrutinize various parameters of the dataset, including customer demographics, credit history, loan application specifics, and previous loan outcomes. The analysis encompasses:
 
