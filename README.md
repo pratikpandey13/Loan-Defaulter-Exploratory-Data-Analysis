@@ -26,17 +26,17 @@ The project employs advanced EDA techniques to scrutinize various parameters of 
 - Development of predictive models to assess the likelihood of future defaults.
 
 Some key steps and methods followed during the EDA as follows:
--- Reading the files
--- Reading and Understanding the Datasets
--- Checking for numerical values and insights
--- Dealing with Missing or Null Values / Data Cleaning
--- Univariate Analysis of Variables with Missing Values
--- Other Checks/Data Validation
--- Checking for Data Imbalance
--- Performing Segmented Univariate Analysis
--- Categorical vs Numerical Analysis
--- Numerical vs Numerical Analysis
--- Bivariate Analysis
+- Reading the files
+- Reading and Understanding the Datasets
+- Checking for numerical values and insights
+- Dealing with Missing or Null Values / Data Cleaning
+- Univariate Analysis of Variables with Missing Values
+- Other Checks/Data Validation
+- Checking for Data Imbalance
+- Performing Segmented Univariate Analysis
+- Categorical vs Numerical Analysis
+- Numerical vs Numerical Analysis
+- Bivariate Analysis
 
 ## Conclusion
 By harnessing the power of data analytics, this project equips the bank with a robust framework for identifying and managing potential loan defaulters. The insights derived from this analysis are not only crucial for making informed loan approval decisions but also for fostering a more secure and efficient banking environment. This endeavor underscores the transformative potential of data science in revolutionizing traditional banking practices and enhancing financial risk management.
